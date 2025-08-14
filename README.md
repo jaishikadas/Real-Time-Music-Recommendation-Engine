@@ -37,11 +37,7 @@ It uses **cosine similarity** to find and rank the most relevant songs from a Sp
 ---
 
 ## 📂 Project Structure
-├── app.py 
-├── recommender.py 
-├── requirements.txt 
-├── spotify_daily_charts_tracks.csv 
-├── seed_track.csv 
+app.py ──> recommender.py ──> requirements.txt ──> spotify_daily_charts_tracks.csv ──> seed_track.csv 
 
 ---
 
