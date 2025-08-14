@@ -70,7 +70,7 @@ speechiness
 
 ---
 
-##💡 Future Improvements
+## 💡Future Improvements
 🎨 Add album cover art via Spotify API.
 🔍 Search bar for quick song lookup.
 📈 Add more datasets for broader recommendations.
