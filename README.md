@@ -37,11 +37,11 @@ It uses **cosine similarity** to find and rank the most relevant songs from a Sp
 ---
 
 ## 📂 Project Structure
-├── app.py # Main Streamlit app
-├── recommender.py # Music recommendation logic
-├── requirements.txt # Python dependencies
-├── spotify_daily_charts_tracks.csv # Main dataset
-├── seed_track.csv # Seed track data (optional)
+├── app.py 
+├── recommender.py 
+├── requirements.txt 
+├── spotify_daily_charts_tracks.csv 
+├── seed_track.csv 
 
 ---
 
